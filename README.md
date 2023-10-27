@@ -1,5 +1,5 @@
 
-The preprocessing, machine learning, model re(application), and Python integration part of Udemy's Integrating Python, SQL, and Tableau course which I completed. All necessary explanations are contained within the notebooks themselves. 
+The preprocessing, machine learning, model (re)application, and Python integration part of Udemy's Integrating Python, SQL, and Tableau course which I completed. All necessary explanations are contained within the notebooks themselves. 
 
 Best viewing sequence:
 
