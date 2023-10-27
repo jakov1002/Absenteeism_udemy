@@ -3,7 +3,7 @@ The preprocessing, machine learning, model (re)application, and Python integrati
 
 I did not just follow along, I had to find solutions to errors and do some things differently.
 
-All necessary code explanations can be found in the notebooks' first cells. By doing this I tried to show my understanding of the subject matter.
+All necessary code explanations can be found in the notebooks' first cells. By doing this I tried give some insight to the reader and show my understading of the subject matter.
 
 Best viewing sequence:
 
